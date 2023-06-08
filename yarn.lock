@@ -1487,10 +1487,10 @@ concat-stream@^1.4.7, concat-stream@^1.5.0, concat-stream@^1.6.0:
     typedarray "^0.0.6"
 
 concat-with-sourcemaps@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/concat-with-sourcemaps/-/concat-with-sourcemaps-1.0.4.tgz#f55b3be2aeb47601b10a2d5259ccfb70fd2f1dd6"
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/concat-with-sourcemaps/-/concat-with-sourcemaps-1.0.6.tgz#83a68dbc1f86858effb1249218a4042f303347f2"
   dependencies:
-    source-map "^0.5.1"
+    source-map "^0.6.1"
 
 config-chain@~1.1.5:
   version "1.1.11"
